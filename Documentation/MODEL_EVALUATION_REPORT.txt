@@ -1,0 +1,17 @@
+SMS SPAM DETECTION - MODEL EVALUATION
+
+Accuracy: 97.39%
+
+              precision    recall  f1-score   support
+
+         Ham       0.97      1.00      0.99       903
+        Spam       1.00      0.79      0.89       131
+
+    accuracy                           0.97      1034
+   macro avg       0.99      0.90      0.94      1034
+weighted avg       0.97      0.97      0.97      1034
+
+
+Confusion Matrix:
+[[903   0]
+ [ 27 104]]
